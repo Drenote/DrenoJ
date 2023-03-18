@@ -1,2 +1,10 @@
+if game.PlaceID == 155615604 then
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local Window = OrionLib:MakeWindow({Name = "DrenoJ", HidePremium = false, IntroText = "Hello" SaveConfig = true, ConfigFolder = "DrenoJ"})
+
+
+
+
+
+end
+OrionLib:init()
